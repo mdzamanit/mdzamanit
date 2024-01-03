@@ -1,4 +1,4 @@
-
+Front-End Developers play a crucial role in creating a positive user experience by combining technical skills with a creative and detail-oriented approach to design. They are instrumental in bringing the visual and interactive elements of a website or web application to life.
 <br>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
