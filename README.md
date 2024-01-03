@@ -1,10 +1,8 @@
-# 🤟🏽 About Me:
-
-[<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://github.com/mdzamanit"><img width="80%" alt="Hello, I'm mdzaman. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+I'm a mdzaman passionate FrontEnd developer from Bangladeash 🇮🇳
 
 **About me**
 
@@ -14,7 +12,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 - ❤️ I love writing TypeScript, and building fun experiments on type-level
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 💬 Ask me about anything [here](https://github.com/mdzamanit)
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -29,6 +27,27 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 #### Top Repositories
 
 
+<a href="https://github.com/mdzamanit/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/mdzamanit">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=mdzamanit.github.io&theme=buefy" />
+</a>
+
+<br />
+<br />
+
+<a href="https://twitter.com/">
+  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://codesandbox.io/u/">
+  <img align="right" alt="mdzaman | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a>
+
+
+#### Top Repositories
+
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
 </a>
@@ -39,7 +58,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 <br />
 <br />
 
-<a href="https://twitter.com/anuraghazru">
+<a href="https://twitter.com/">
   <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 <a href="https://codesandbox.io/u/anuraghazra">
