@@ -1,5 +1,6 @@
 
-![mdzaman-it](https://github.com/mdzamanit/mdzamanit/assets/154988583/fdf842d8-799e-4634-bd66-b2fa9194fa73)
+![md zaman (1)](https://github.com/mdzamanit/mdzamanit/assets/154988583/6f67fdbc-d771-40f1-a5a7-14bd6e4ec729)
+
 
 
 Front-End Developers play a crucial role in creating a positive user experience by combining technical skills with a creative and detail-oriented approach to design. They are instrumental in bringing the visual and interactive elements of a website or web application to life.
